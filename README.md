@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## WHAT IS IT?
 
 This model demonstrates a group of musicians synchronizing their perception of time in terms of BPM (beats-per-minute). Musicians play but also listen to what the others are playing and try to adapt their speed of playing to what they perceive. It is a good example of how a distributed system can coordinate itself without any central coordinator.
@@ -132,7 +131,3 @@ Note the use of:
 ## CREDITS AND REFERENCES
 
 This work was done by Fabio Romagnolo in quality of project for the Franco Zambonelli's _Distributed Artificial Intelligence_ course (A.Y. 2021/2022) at the University of Modena and Reggio Emilia.
-=======
-# Distributed-BPM-Synchronization
-A Netlogo's simulation model for distributed BPM synchronization between musicians. 
->>>>>>> 7f69001309e5547cf11701995c4be6e02a2981e0
